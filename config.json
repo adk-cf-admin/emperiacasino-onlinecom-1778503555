@@ -1,0 +1,204 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#24193F",
+            "lang-select-color": "#222829",
+            "bg-light": "#24193F",
+            "welcome-bonus-bg": "#24193F",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#110E23",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#EEA007",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#5114D5",
+            "yellow": "#EEA007",
+            "yellow-button": "#5114D5",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#EEA007",
+            "casino-cards": "#24193F",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#EEA007",
+            "providers-back": "#24193F",
+            "faq-label": "#24193F",
+            "bg-footer": "#24193F",
+            "copyright": "#e7e7d5",
+            "starColor": "#EEA007",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/7467"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/7471",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Emperia Casino Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/7482",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Emperia Casino"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-ca-en-CA",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "CA",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Emperia Casino",
+                    "title": "Emperia Casino — Slots, Live Casino, Bonuses, and CAD Payments",
+                    "description": "Emperia Casino features 12,000+ games, live casino, welcome bonuses, cashback up to 35%, Denarius Shop, Interac, CAD payments, and browser-based mobile access.",
+                    "canonical": "emperiacasino-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/7472",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "emperiacasino-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/7473"
+                },
+                "hero": {
+                    "title": "Emperia Casino — Online Casino with 12,000+ Games, Live Casino, and Denarius Rewards",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/7474",
+                    "imageSizeModifier": 15,
+                    "imageYModifier": -7,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/7475",
+                    "mobileImageSizeModifier": 10,
+                    "mobileImageYModifier": 0,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "At Emperia Casino, we focus on variety, smooth access, and a reward structure that is easy to understand.",
+                    "items": [
+                        "12,000+ games from leading studios",
+                        "Live Casino with roulette tables",
+                        "Denarius Shop for bonus exchanges",
+                        "Daily promos and reload offers",
+                        "Weekly cashback up to 35%",
+                        "Interac, cards, and e-wallets",
+                        "Mobile play without app download"
+                    ],
+                    "advantagesAfterText": "Our casino brings together slots, live games, tournaments, cashback, and the Denarius system in one player account. The platform supports CAD, crypto options, and widely used payment methods, including Interac.",
+                    "knowMore": "Know more",
+                    "appTitle": "Emperia Casino App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/7478",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Emperia Casino App",
+                    "mobileGooglePlayImageTitle": "Emperia Casino App",
+                    "mobileIosImageTitle": "Emperia Casino App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": " About Emperia Casino",
+                        "description1": "Emperia Casino stands out through a mix of welcome rewards, daily promotions, and recurring tournament formats. Our casino connects bonuses, free spins, Denarius Coins, and cashback as separate ways to add more structure to the playing experience.",
+                        "items": [
+                            "450% + 325 FS",
+                            "Cashback up to 35%",
+                            "Tournaments up to £30,000"
+                        ],
+                        "description2": "Emperia Casino is an online casino built around a large game library, live gaming, daily promotions, and our own Denarius loyalty system. Our library includes more than 12,000 titles from recognized studios such as Pragmatic Play, Play’n GO, Yggdrasil, Big Time Gaming, Hacksaw Gaming, NetEnt, Thunderkick, Amusnet, Novomatic, and more. We focus on a broad slot selection, including classic slots, Megaways titles, bonus buy games, jackpot formats, new releases, and popular provider collections. The Live Casino area includes live dealer roulette titles such as Dynamic European Roulette, Live Speed Roulette, Onyx Roulette Auto, Dynamic Roulette 120x, and Live European Roulette.",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/7479",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": " Dynamic paytable roulette formats add an extra layer of variation to the standard live roulette experience. Emperia Casino is not positioned as a sportsbook, so our core experience is centred on slots, table games, live casino, tournaments, and promotional features. New players can access a multi-stage welcome package, while higher first deposits may qualify for a separate highroller-style offer. After the welcome stage, our casino runs recurring promotions such as Monday Power Boost, Midweek Reload, Friday Mega Boost, Saturday Super Bonus, and Sunday Reload. Weekly cashback of up to 35% is also part of the ongoing promotional structure. The Denarius system allows players to earn coins through activity and exchange them in the Shop for free spins or bonus funds. This creates a flexible reward format because players can decide when and how to use their accumulated coins. Tournament activities may include leaderboards, points based on gameplay, and prize pools, including a Pragmatic Tournament format with a £30,000 prize pool. The game lobby includes categories, search, and filters to make slots, live tables, and trending releases easier to find. Emperia Casino is available through mobile browsers on iOS and Android without a separate app download. Account access includes balance management, bonus information, transaction history, games, and customer support. The platform supports multiple currencies, including CAD, alongside crypto options and popular payment methods. Our casino experience is shaped around choice, clear access, responsible play, and a broad entertainment structure."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Emperia Casino: your comfort — rules, security, support",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\"> Emperia Casino — Access Rules, Player Safety, and Responsible Play <\/h3> <p> At Emperia Casino, access rules are designed to keep the platform clear, safe, and consistent for every account holder. Account use is intended only for players who meet the legal age requirement that applies to them. Registration must be completed with accurate personal information because identity verification may be required before withdrawals. We may request KYC documents, proof of address, proof of payment method, or additional transaction details. Each player should use only one personal account, as multiple accounts may lead to restrictions. Login details, passwords, payment credentials, and account access must not be shared with third parties. Our casino does not allow fraudulent activity, bonus abuse, prohibited software, or behaviour that affects game integrity. Bonuses, free spins, cashback, and Denarius redemptions follow specific terms, including minimum deposits, wagering requirements, expiry periods, and eligible games. Before a withdrawal, deposits and active bonuses must meet the applicable turnover and wagering rules. Payments are processed through supported methods, while withdrawals are completed after review and approval. If a payment method requires extra verification, the processing period may be longer. Emperia Casino works through desktop and mobile browsers, but stable access and correct account details remain important for smooth use. We support responsible gambling and treat gaming as entertainment, not as a financial plan. A player may request self-exclusion when a longer break is needed. Self-exclusion may run from 6 months to 5 years and cannot be reversed once active. It is useful to set personal limits for time, budget, and frequency before playing. If gambling starts to feel uncomfortable, the safest step is to stop and contact support. These rules help protect the account, maintain fair bonus use, and support responsible platform access. <\/p> <br> <h4 style = \"font-weight: bold; font-size: 24px;\"> Main Access Rules <\/h4> <ul> <li>• Age access — only eligible adult users may hold an account.<\/li> <li>• Accurate details — registration should use correct personal information.<\/li> <li>• One account — each player should keep a single personal profile.<\/li> <li>• KYC review — documents may be requested before a withdrawal.<\/li> <\/ul><br> <h4 style = \"font-weight: bold; font-size: 24px;\"> Restricted Activity <\/h4> <ul> <li>• Account sharing — login access must not be transferred to others.<\/li> <li>• Multiple accounts — duplicate profiles may result in restrictions.<\/li> <li>• Bonus misuse — promotions must follow the listed conditions.<\/li> <li>• Technical abuse — bots, scripts, and system bypasses are not allowed.<\/li> <\/ul><br> <h4 style = \"font-weight: bold; font-size: 24px;\"> Responsible Play <\/h4> <ul> <li>• Personal budget — playing funds should be planned in advance.<\/li> <li>• Time control — sessions should not affect everyday priorities.<\/li> <li>• Break option — activity can be paused when needed.<\/li> <li>• Self-exclusion — a longer account block may be requested.<\/li> <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\"> Emperia Casino — Licence, Data Security, and Privacy Protection <\/h3> <p> Emperia Casino operates as an online casino managed by Fortuna Games N.V. and is listed as licensed through the Curaçao gaming framework. For players, this means our platform is connected to an offshore gaming jurisdiction with operator, payment, account verification, and gambling access requirements. A licence does not replace the player’s own responsibility to follow the rules that apply to them, so account access should always be used with awareness of personal eligibility. <\/p> <br> <p> Account protection begins with accurate registration, a strong password, and access from trusted devices. We use identity and payment verification when it is needed for withdrawal security, fraud prevention, and KYC procedures. Verification may include documents confirming identity, address, card ownership, or connection to a selected payment method. <\/p> <br> <p> Data transfer during account login and payment activity is normally protected by modern encryption protocols that reduce the risk of information interception. This matters when using cards, e-wallets, Interac, crypto wallets, and bank transfers. Security also depends on the user’s device, network, browser settings, and protection of login credentials. <\/p> <br> <p> The privacy framework explains what personal data is processed, why it is used, and how long it may be retained. This may include registration information, contact details, payment records, login history, transaction history, gaming activity, KYC documents, and support messages. These details support account operation, payment processing, legal compliance, abuse prevention, and service quality. <\/p> <br> <p> Privacy at Emperia Casino is also connected to safe account behaviour. Players should avoid sharing passwords, saving payment information on public devices, using unprotected public networks, or logging in through uncertain domains. If unauthorized access is suspected, the safest step is to contact support and update account credentials. <\/p> <br> <p> We treat data protection as an ongoing process rather than a single setting. Verification, controlled payments, responsible data handling, encrypted access, and restricted use of personal information help support a safer gaming environment. <\/p> <br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\"> Emperia Casino — Deposits, Withdrawals, and Payment Limits <\/h3> <p> At Emperia Casino, the payment system is designed for different user preferences, including cards, e-wallets, Interac, bank transfers, vouchers, and crypto options. Deposit methods may include Visa, Mastercard, Interac, Skrill, Neteller, MiFinity, Jeton, Paysafecard, Flexepin, banking solutions, and crypto payments. Withdrawal methods usually include Interac, MiFinity, Skrill, Jeton, bank transfer, and cryptocurrencies such as Bitcoin, Litecoin, Ethereum, Tether, and TRON. CAD is listed among supported account currencies, so balances and transactions may be shown in C$ when that currency is selected. Public payment details list the minimum deposit from €10 or equivalent, while many bonus offers require a minimum deposit from €20 or equivalent. The listed minimum withdrawal is €20 or equivalent. Before the first withdrawal, KYC verification may be required, including identity documents and payment method confirmation. Document review is generally listed within 0–24 hours, though timing can depend on the completeness of submitted information. After approval, e-wallets and crypto withdrawals are usually faster than bank transfers. E-wallets and cryptocurrencies are listed with an estimated 0–24 hour payout window after approval. Bank transfers may take 3–5 days. Deposits may need to be wagered at least 3 times before withdrawal where this account rule applies. Bonus funds also follow the wagering requirements and conditions of the specific promotion. Only one pending withdrawal may be active in the account at a time. We do not list casino-side payment fees, but banks, wallets, or payment providers may apply their own charges. For smoother processing, payment methods should belong to the registered account holder. <\/p> <br> <table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\"> <thead> <tr style=\"background-color: #EEA007;\"> <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Method<\/th> <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Deposit speed<\/th> <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Payout after app&shy;roval<\/th> <\/tr> <\/thead> <tbody> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Interac<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">Usually fast<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">0–24 hours<\/td> <\/tr> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>MiFinity<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">Usually fast<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">0–24 hours<\/td> <\/tr> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Skrill<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">Usually fast<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">0–24 hours<\/td> <\/tr> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Jeton Wallet<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">Usually fast<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">0–24 hours<\/td> <\/tr> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Crypto&shy;currency<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">Usually fast<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">0–24 hours<\/td> <\/tr> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Bank Trans&shy;fer<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">1–3 business days<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">3–5 days<\/td> <\/tr> <\/tbody> <\/table> <br> <h4 style = \"font-weight: bold; font-size: 24px;\"> Withdrawal Limits <\/h4> <ul> <li>• Minimum withdrawal — €20 or C$ equivalent.<\/li> <li>• Maximum per transaction — €1,000 or equivalent.<\/li> <li>• Maximum per day — €3,000 or equivalent.<\/li> <li>• Maximum per month — €20,000 or equivalent.<\/li> <li>• Pending withdrawals — one active request at a time.<\/li> <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\"> Emperia Casino — Customer Support and Service Quality <\/h3> <p> At Emperia Casino, customer support helps with account access, login issues, bonuses, payments, verification, games, and responsible platform use. The main contact channel is live chat, publicly listed as available 24\/7. Chat is suitable for quick questions, bonus status checks, promotion terms, and basic navigation support. For issues involving documents, transaction details, or account history, email is usually more practical. Email support creates a written record and allows players to attach files for KYC or payment review. The public support address is support@emperiacasino.com, while account verification may use a separate KYC contact route. A phone line is not publicly confirmed as a main channel, so voice support should be checked inside the account area if available. We recommend not sharing full card details, passwords, or access codes in chat. Support may ask for secure identification, but the account password is not required. Response time in live chat is usually faster than email because chat is designed for immediate assistance. Email may take longer, especially when a question involves payment checks or documents. Service quality depends on how clearly the request is described. The more precise the amount, date, payment method, bonus, or game information, the easier it is to review the case. Emperia Casino support is listed in several languages, including English, German, and Portuguese. Additional interface languages may be available across some platform sections. For complex questions, we aim to provide clear steps so the player understands what happens next. If a request concerns responsible gambling, a break, or self-exclusion, it should be handled carefully and without unnecessary delay. <\/p> <br> <h4 style = \"font-weight: bold; font-size: 24px;\"> Contact Channels <\/h4> <ul> <li>• Live chat — fast help for general questions.<\/li> <li>• Email — documents, payments, KYC, and complex cases.<\/li> <li>• Phone — only where a number is shown in the account or support area.<\/li> <\/ul><br> <h4 style = \"font-weight: bold; font-size: 24px;\"> Support Topics <\/h4> <ul> <li>• Account — login, registration, and profile details.<\/li> <li>• Bonuses — terms, status, and wagering requirements.<\/li> <li>• Payments — deposits, withdrawals, limits, and timing.<\/li> <li>• Games — title search, errors, and round history.<\/li> <li>• Responsible play — breaks, self-exclusion, and activity control.<\/li> <\/ul><br> <h4 style = \"font-weight: bold; font-size: 24px;\"> Languages <\/h4> <ul> <li>• English — the main international support language.<\/li> <li>• German — available for selected support requests.<\/li> <li>• Portuguese — listed as a support language.<\/li> <li>• Other languages — may depend on interface and agent availability.<\/li> <\/ul><br>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Entertainment and Gaming at Emperia Casino",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\"> Emperia Casino — Denarius Loyalty Program <\/h3> <p> At Emperia Casino, the loyalty experience is built around the Denarius system. This is an internal coin-based mechanic where players receive Denarius Coins for activity on the platform. Coins can be used in the Shop, where free spins, bonus funds, and other offers may be available. The main idea behind Denarius is that the player is not limited to a welcome bonus or one-time promotions. The system works as an additional reward layer across slots, live casino, tournaments, and daily offers. Denarius is useful for players who prefer to choose when to redeem accumulated coins. Unlike complex VIP structures with many hidden levels, Denarius is presented as a more straightforward mechanic. A player plays games, completes available actions, earns coins, and exchanges them in the Shop. The exact reward selection may depend on coin balance, account status, active bonuses, and platform terms. If a bonus is already active, offer compatibility should be checked before redeeming coins. Free spins from the Shop may be connected to specific slots or providers. Bonus funds may carry their own wagering requirements, expiry periods, and maximum bet rules. Participation in Denarius generally requires a registered account and valid platform access. KYC may not be needed to earn coins, but it can be required before withdrawing funds gained after bonus conditions are completed. Denarius complements the VIP program and may work alongside cashback, reload offers, and tournaments. Emperia Casino also mentions VIP access, though public level details may vary by account. VIP-style treatment usually depends on activity, deposit history, rule compliance, and long-term platform use. We treat loyalty as a way to give players more control over bonus options, not as a requirement to increase play. <\/p> <br> <h4 style = \"font-weight: bold; font-size: 24px;\"> Registration Conditions <\/h4> <ul> <li>• Emperia Casino account — a personal profile is required.<\/li> <li>• Accurate details — information supports safety and verification.<\/li> <li>• Shop access — rewards are exchanged through Denarius Shop.<\/li> <li>• Terms compliance — coins and bonuses follow platform rules.<\/li> <\/ul><br> <h4 style = \"font-weight: bold; font-size: 24px;\"> Levels and Access <\/h4> <ul> <li>• Denarius Coins — the core earning mechanic for activity.<\/li> <li>• Shop Access — coins can be exchanged for free spins or bonus funds.<\/li> <li>• VIP status — may depend on activity and account history.<\/li> <li>• Individual offers — selected rewards may vary by profile.<\/li> <\/ul><br> <h4 style = \"font-weight: bold; font-size: 24px;\"> Available Rewards <\/h4> <ul> <li>• Free Spins — coin exchange for selected spin offers.<\/li> <li>• Bonus Money — bonus funds used under listed terms.<\/li> <li>• Weekly Cashback up to 35% — recurring cashback format.<\/li> <li>• Reload Offers — examples include 111% + 111 FS or 40% + 40 FS.<\/li> <li>• Tournament Rewards — leaderboard prizes in selected events.<\/li> <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\"> Emperia Casino — Bonuses, Tournaments, and Special Offers <\/h3> <p> At Emperia Casino, the promotional structure includes a welcome package, reload offers, free spins, cashback, tournament events, and Denarius Shop rewards. The Welcome Bonus Pack includes up to 450% + 325 free spins across the first deposits. The first deposit may include 200% + 100 free spins up to the limit stated in the promotion terms. A separate highroller-style First Deposit Bonus is publicly listed as 200% + 100 free spins with a higher limit. After the welcome stage, our casino continues with recurring promotional formats. Monday Power Boost may include 111% + 111 free spins. Midweek Reload adds 40% + 40 free spins. Friday Mega Boost may offer 100% up to a higher promotion limit. Saturday Super Bonus includes 75% + 75 free spins. Sunday Reload may provide 50% and an added bonus-play structure. Weekly Cashback reaches up to 35% and belongs to the regular cashback formats. Some cashback offers may include separate wagering conditions. Tournaments at Emperia Casino may run on games from selected providers, including Pragmatic Play. Seasonal events may use leaderboards, spin-based points, qualifying bets, and prize pools. One public example is the Pragmatic Tournament May Spin Win Quest with a £30,000 prize pool. Special offers may be linked to selected slots, new releases, live games, or calendar promotions. Every bonus has conditions, including minimum deposit, wagering requirements, expiry period, maximum bet, and eligible games. We treat bonuses as an additional gaming format, not as a guaranteed outcome. <\/p> <br> <h4 style = \"font-weight: bold; font-size: 24px;\"> Welcome Bonuses <\/h4> <ul> <li>• 450% + 325 FS — full welcome package across first deposits.<\/li> <li>• 200% + 100 FS — first deposit promotion.<\/li> <li>• 75% + 75 FS — second deposit in the welcome structure.<\/li> <li>• 50% + 50 FS — third deposit offer.<\/li> <li>• 125% + 100 FS — fourth deposit offer.<\/li> <li>• Highroller 200% + 100 FS — separate larger first-deposit format.<\/li> <\/ul><br> <h4 style = \"font-weight: bold; font-size: 24px;\"> Weekly Promotions <\/h4> <ul> <li>• Monday Power Boost — 111% + 111 FS.<\/li> <li>• Midweek Reload — 40% + 40 FS.<\/li> <li>• Friday Mega Boost — 100% up to the promotion limit.<\/li> <li>• Saturday Super Bonus — 75% + 75 FS.<\/li> <li>• Sunday Reload — 50% up to the promotion limit.<\/li> <\/ul><br> <h4 style = \"font-weight: bold; font-size: 24px;\"> Cashback and Tournaments <\/h4> <ul> <li>• Weekly Cashback up to 35% — recurring cashback under listed terms.<\/li> <li>• Pragmatic Tournament — leaderboard-based event format.<\/li> <li>• £30,000 Prize Pool — example of a seasonal prize fund.<\/li> <li>• Denarius Shop — coin exchange for free spins or bonus funds.<\/li> <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\"> Emperia Casino — Games, Live Casino, and Game Categories <\/h3> <p> Emperia Casino focuses on online casino games and does not place its core emphasis on sports betting. Our library includes more than 12,000 games, giving players access to slots, live casino, table games, jackpot formats, and new releases. The main category is slots from Pragmatic Play, Play’n GO, Yggdrasil, Hacksaw Gaming, NetEnt, Big Time Gaming, Thunderkick, Amusnet, Novomatic, and other studios. Slot formats include classic machines, video slots, Megaways, Hold & Win, bonus buy, cluster pays, high-volatility games, and free spin releases. Publicly listed titles include Gates of Olympus Super Scatter, Sweet Bonanza, Book of Dead, Millionaire Mystery Box, CherryPop, Danger High Voltage, Wild West Gold, Midas Golden Touch, Sugar Rush 1000, Dead or Alive 2 Feature Buy, and Le Bandit. The Hot Games section helps highlight active and frequently selected games. New Games focuses on fresh releases that are regularly added to the lobby. Table games include classic formats such as blackjack, roulette, and other card or casino table titles. Live Casino includes live dealer games with a clear focus on roulette. Listed live titles include Dynamic European Roulette, Live Speed Roulette, Onyx Roulette Auto, Dynamic Roulette 120x, and Live European Roulette. Dynamic Roulette adds multiplier-style variation to the standard roulette mechanic. Jackpot games are available for players interested in progressive prize pools, though every result depends on the game rules. Emperia Casino includes search, categories, and filters to make providers, game types, and specific titles easier to find. Some games may be available in demo mode where the provider and account settings allow it. On mobile devices, gameplay works through the browser without a required app download. Balance, bonuses, history, and games remain available under one account when moving between desktop and mobile. We shape the game catalogue around fast slots, live dealers, classic table games, and tournament formats. <\/p> <br> <h4 style = \"font-weight: bold; font-size: 24px;\"> Slots <\/h4> <ul> <li>• Classic Slots — simple mechanics and familiar symbols.<\/li> <li>• Video Slots — modern releases with bonus rounds.<\/li> <li>• Megaways — variable paylines and dynamic gameplay.<\/li> <li>• Bonus Buy — bonus round purchase where available.<\/li> <li>• Hold & Win — symbol collection and fixed prize features.<\/li> <li>• Jackpots — games with progressive prize pools.<\/li> <\/ul><br> <h4 style = \"font-weight: bold; font-size: 24px;\"> Live Casino <\/h4> <ul> <li>• Live European Roulette — roulette with a live dealer.<\/li> <li>• Live Speed Roulette — faster live roulette format.<\/li> <li>• Dynamic Roulette 120x — roulette with dynamic multipliers.<\/li> <li>• Onyx Roulette Auto — automated live roulette format.<\/li> <\/ul><br> <h4 style = \"font-weight: bold; font-size: 24px;\"> Table Games <\/h4> <ul> <li>• Blackjack — card strategy with varying table limits.<\/li> <li>• Roulette — European and live roulette versions.<\/li> <li>• Baccarat — simple bet structure and fast rounds.<\/li> <li>• Poker-style Games — casino table formats against the dealer.<\/li> <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\"> Emperia Casino — Minimum and Maximum Bets by Game Type <\/h3> <p> At Emperia Casino, betting limits depend on the provider, game version, table type, account currency, and active bonus conditions. Current minimum and maximum amounts are usually shown in the game card or live lobby before a round starts. For CAD accounts, limits may be displayed in C$, while bonus play can include a separate maximum bet rule. The table below gives category-based reference ranges to help understand the usual betting structure. <\/p> <br> <table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\"> <thead> <tr style=\"background-color: #EEA007;\"> <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Game Type<\/th> <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Min Bet<\/th> <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Max Bet<\/th> <\/tr> <\/thead> <tbody> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Slots<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">C$0.10<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">C$100<\/td> <\/tr> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Megaways<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">C$0.20<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">C$100<\/td> <\/tr> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Jackpot Slots<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">C$0.10<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">C$50<\/td> <\/tr> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Bonus Buy Slots<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">C$0.20<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">C$250<\/td> <\/tr> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Roulette<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">C$1<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">C$5,000<\/td> <\/tr> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live Roulette<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">C$1<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">C$10,000<\/td> <\/tr> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Blackjack<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">C$5<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">C$5,000<\/td> <\/tr> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Baccarat<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">C$5<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">C$10,000<\/td> <\/tr> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Game Shows<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">C$0.10<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">C$5,000<\/td> <\/tr> <\/tbody> <\/table> <br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\"> Emperia Casino — Tournaments and Leaderboards <\/h3> <p> At Emperia Casino, tournaments and leaderboards add a competitive layer to the gaming experience. Participation is usually connected to selected games, providers, or a specific promotional period. Tournament events may count bets, spins, winning combinations, multipliers, activity volume, or special missions. Point scoring depends on the rules of the specific tournament, so the event conditions should be checked before playing. In slot tournaments, points are often linked to qualifying spins or results in selected games. Some leaderboards may consider not only the bet amount, but also activity time, number of rounds, or mission completion. Current position is usually displayed in the leaderboard inside the promotion area or tournament widget. A prize may be credited automatically after the event ends or may require activation in the account. If the prize is bonus money or free spins, wagering requirements and expiry periods may apply. To withdraw cash after using a tournament bonus, wagering may need to be completed and KYC may be required. We recommend checking leaderboard position regularly because rankings can change until the tournament closes. Tournaments are useful for adding an extra goal to slot play while keeping personal limits and responsible play in mind. <\/p> <br> <h4 style = \"font-weight: bold; font-size: 24px;\"> How to Participate <\/h4> <ul> <li>• Choose a tournament — open the promotions or tournaments area.<\/li> <li>• Check eligible games — only listed slots or providers may qualify.<\/li> <li>• Follow bet rules — the minimum qualifying bet is shown in the terms.<\/li> <li>• Play within the period — points count only during the event window.<\/li> <\/ul><br> <h4 style = \"font-weight: bold; font-size: 24px;\"> How Points Are Scored <\/h4> <ul> <li>• Spins — qualifying spins may generate leaderboard points.<\/li> <li>• Bets — wagered volume may be counted under event rules.<\/li> <li>• Wins — selected events may score winning results.<\/li> <li>• Missions — some tournaments use task-based scoring.<\/li> <\/ul><br> <h4 style = \"font-weight: bold; font-size: 24px;\"> How to Claim Prizes <\/h4> <ul> <li>• Automatic credit — prizes may arrive after final calculation.<\/li> <li>• Account activation — some rewards require bonus section activation.<\/li> <li>• Bonus terms — bonus money and free spins may carry wagering rules.<\/li> <li>• KYC review — cash withdrawals may require verification.<\/li> <\/ul><br>"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Does Emperia Casino support CAD?",
+                            "answer": "Yes, CAD is listed among supported account currencies, alongside EUR, cryptocurrencies, and other options."
+                        },
+                        {
+                            "title": "Is verification required?",
+                            "answer": "Yes, KYC may be required before withdrawals, especially for the first payout request or payment method review."
+                        },
+                        {
+                            "title": "Are demo games available?",
+                            "answer": "Some games may be available in demo mode where the provider and specific game settings allow it."
+                        },
+                        {
+                            "title": "Is sports betting available?",
+                            "answer": "Emperia Casino is focused on online casino games, slots, live casino, table games, and tournaments rather than sportsbook betting."
+                        },
+                        {
+                            "title": "What is Denarius Shop?",
+                            "answer": "It is an internal exchange system where Denarius Coins can be used for bonus offers such as free spins or bonus money."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

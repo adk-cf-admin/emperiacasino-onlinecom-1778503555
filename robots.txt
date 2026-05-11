@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://emperiacasino-online.com/
+Sitemap: https://emperiacasino-online.com/sitemap.xml

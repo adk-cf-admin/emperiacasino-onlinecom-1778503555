@@ -1,0 +1,19 @@
+{
+  "name": "Emperia Casino",
+  "short_name": "Emperia Casino",
+  "theme_color": "",
+  "background_color": "#24193F",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1778502218-favicon-32x32-38.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
